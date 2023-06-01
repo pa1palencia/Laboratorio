@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Cisne</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+      
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@600&display=swap');
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <div class="logo">
+            <a href="max.html"><img src="Logo-El-Cisne-3543x1228.png" alt=""></a>
+        </div> 
+        <div class="search-container">
+            <input type="text" class="search-input" placeholder="Buscar..." />
+            <i class="fas fa-search search-icon"></i>
+        </div> 
+        <div class="menu">
+            <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://api.whatsapp.com" target="_blank"><i class="fab fa-whatsapp"></i></a>
+        </div>
+    </div>
+    <div class="nav2">
+        <div class="dropdown">
+            <button class="dropbtn">...</button>
+            <div class="dropdown-content">
+                <a href="PlayerasChapinas.html">PLAYERAS CHAPINAS</a>
+                <a href="CABALLERO.html">CABALLERO</a>
+                <a href="DAMA.html">DAMA</a>
+                <a href="INFANTILYJUVENIL.html">INFANTIL Y JUVENIL</a>
+                <a href="ACCESORIOS.html">ACCESORIOS</a>
+            </div>
+		</div>
+	</div>
+
+
+<h1>Prendas Femeninas</h1>
+        <div class="container-items">
+			<div class="item">
+				<figure>
+					<img
+						src="M1.jpg"
+						alt="producto"
+					/>
+				</figure>
+				<div class="info-product">
+					<h2> BLUSA GRAFICA / GRIS</h2>
+					<p class="price">Q75.00</p>
+					<button>Añadir al carrito</button>
+				</div>
+			</div>
+			<div class="item">
+				<figure>
+					<img
+						src="M2.jpg"
+						alt="producto"
+					/>
+				</figure>
+				<div class="info-product">
+					<h2>BLUSA GRÁFICA / AMARILLO</h2>
+					<p class="price">Q75.00</p>
+					<button>Añadir al carrito</button>
+				</div>
+			</div>
+			<div class="item">
+				<figure>
+					<img
+						src="M3.jpg"
+						alt="producto"
+					/>
+				</figure>
+				<div class="info-product">
+					<h2>BLUSA GRÁFICA / BLANCA</h2>
+					<p class="price">Q75.00</p>
+					<button>Añadir al carrito</button>
+				</div>
+			</div>
+			<div class="item">
+				<figure>
+					<img
+						src="M4.jpg"
+						alt="producto"
+					/>
+				</figure>
+				<div class="info-product">
+					<h2> SHORT IRIS NAVY </h2>
+					<p class="price">Q135.00</p>
+					<button>Añadir al carrito</button>
+				</div>
+			</div>
+			<div class="item">
+				<figure>
+					<img
+						src="M5.jpg"
+						alt="producto"
+					/>
+				</figure>
+				<div class="info-product">
+					<h2> SHORT IRIS AMARILLO</h2>
+					<p class="price">Q135.00</p>
+					<button>Añadir al carrito</button>
+				</div>
+			</div>
+			<div class="item">
+				<figure>
+					<img
+						src="M6.jpg"
+						alt="producto"
+					/>
+				</figure>
+				<div class="info-product">
+					<h2> SHORT AMBIENCE CELESTE/RAYAS </h2>
+					<p class="price">Q135.00</p>
+					<button>Añadir al carrito</button>
+				</div>
+			</div>
+			<div class="item">
+				<figure>
+					<img
+						src="M7.jpg"
+						alt="producto"
+					/>
+				</figure>
+				<div class="info-product">
+					<h2>JACKET DE LONA PARA DAMA KALUA </h2>
+					<p class="price">Q255.00</p>
+					<button>Añadir al carrito</button>
+				</div>
+			</div>
+			<div class="item">
+				<figure>
+					<img
+						src="M8.jpg"
+						alt="producto"
+					/>
+				</figure>
+				<div class="info-product">
+					<h2>JACKET DE LONA PARA DAMA KALUA</h2>
+					<p class="price">Q235.00</p>
+					<button>Añadir al carrito</button>
+				</div>
+			</div>
+			<div class="item">
+				<figure>
+					<img
+						src="M9.jpg"
+						alt="producto"
+					/>
+				</figure>
+				<div class="info-product">
+					<h2>JACKET DE LONA NEGRA PARA DAMA KALUA</h2>
+					<p class="price">Q245.00</p>
+					<button>Añadir al carrito</button>
+				</div>
+			</div>
+		</div>  	
+    </div>
